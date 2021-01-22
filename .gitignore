@@ -1,0 +1,9 @@
+# Ignore everything
+/*
+
+# Files
+!/*.cpp
+!/.gitignore
+!/.gitmodules
+!/CMakeLists.txt
+!/readme.md
