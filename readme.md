@@ -17,7 +17,7 @@ git submodule update --init --recursive
 ```bash
 mkdir build
 cd build
-camke -G Ninja ..
+cmake -G Ninja ..
 ninja
 ```
 
