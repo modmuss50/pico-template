@@ -8,6 +8,9 @@
 
 const float conversion_factor = 3.3f / (1 << 12);
 
+/*
+    A simple application to blink the LED light, and print out the temperature.
+*/
 int main() {
     stdio_init_all();
 
